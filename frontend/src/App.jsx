@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div style={{ textAlign: "center", marginTop: "50px" }}>
-      <h1>React + Python (Flask)</h1>
+      <h1>React + Python +Jenkins +docker  (Flask)</h1>
       <p>{message}</p>
     </div>
   );
