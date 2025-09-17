@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clone Repo') {
             steps {
-                git branch: 'main', url: 'https://github.com/your-repo/two-tier-app.git'
+                git branch: 'main', url: 'https://github.com/vishva-vsr/first_project.git'
             }
         }
 
